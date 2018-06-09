@@ -4,7 +4,7 @@
 
 int main(int argc, char *argv[])
 {
-	printf("Igos, autotools!");
-	return 0;
+    printf("Igos, autotools!");
+    return 0;
 }
 
