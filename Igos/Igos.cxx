@@ -1,6 +1,6 @@
 /*
 ****************************************************************************************************************
-*= = 版权信息：Copyright (C) 2015 - 2018. Asytumn Technology Co., Ltd. All rights reserved.
+*= = 版权信息：Copyright (C) 2015 - 2019. Asytumn Technology Co., Ltd. All rights reserved.
 *= = 文件名称：Igos.cxx
 *= = 功能描述：棋魂定义主文件
 *= = 编写人员：Carlyon W. Tung
