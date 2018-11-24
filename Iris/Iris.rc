@@ -1,0 +1,128 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "Resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+///////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+///////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+///////////////////////////////////////////////////////////////////////////////
+// Chinese (中国) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+#ifdef _WIN32
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SIMPLIFIED
+#pragma code_page(936)
+#endif //_WIN32
+
+#ifndef _MAC
+///////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+	FILEVERSION 1, 1, 0, 1
+	PRODUCTVERSION 1, 1, 0, 1
+	FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+	FILEFLAGS 0x1L
+#else
+	FILEFLAGS 0x0L
+#endif
+	FILEOS 0x40004L
+	FILETYPE 0x2L
+	FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "080404b0"
+        BEGIN
+            VALUE "Comments", "Turing Labs"
+            VALUE "CompanyName", "Asytumn Technology Co., Ltd."
+            VALUE "FileDescription", "交互资源库"
+            VALUE "FileVersion", "1, 1, 0, 1"
+            VALUE "InternalName", "Iris"
+            VALUE "LegalCopyright", "Copyright (C) 2015 - 2019."
+            VALUE "LegalTrademarks", "\0"
+            VALUE "OriginalFilename", "Iris.dll"
+            VALUE "ProductName", "Igos"
+            VALUE "ProductVersion", "1, 1, 0, 1"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x804, 1200
+    END
+END
+
+#endif    // !_MAC
+
+
+#ifdef APSTUDIO_INVOKED
+///////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+///////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDB_BACKBORAD           BITMAP  DISCARDABLE     "Images\\BackBoard.bmp"
+IDB_BOARD               BITMAP  DISCARDABLE     "Images\\Board.bmp"
+IDB_STONE               BITMAP  DISCARDABLE     "Images\\Stone.bmp"
+IDB_TOOLBAR             BITMAP  DISCARDABLE     "Images\\Toolbar.bmp"
+IDB_DISABLE             BITMAP  DISCARDABLE     "Images\\ToolbarDisable.BMP"
+IDB_HOVER               BITMAP  DISCARDABLE     "Images\\ToolbarHover.BMP"
+IDB_NORMAL              BITMAP  DISCARDABLE     "Images\\ToolbarNormal.BMP"
+
+///////////////////////////////////////////////////////////////////////////////
+//
+// WAVE
+//
+
+IDR_WAVE_INVALID        WAVE    DISCARDABLE     "Sounds\\Invalid.wav"
+IDR_WAVE_LOSE           WAVE    DISCARDABLE     "Sounds\\Lose.wav"
+IDR_WAVE_MOVE           WAVE    DISCARDABLE     "Sounds\\Move.wav"
+#endif    // Chinese (中国) resources
+
+///////////////////////////////////////////////////////////////////////////////
+
+#ifndef APSTUDIO_INVOKED
+///////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+///////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
+
