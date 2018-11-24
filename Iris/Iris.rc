@@ -98,9 +98,9 @@ IDB_BACKBORAD           BITMAP  DISCARDABLE     "Images\\BackBoard.bmp"
 IDB_BOARD               BITMAP  DISCARDABLE     "Images\\Board.bmp"
 IDB_STONE               BITMAP  DISCARDABLE     "Images\\Stone.bmp"
 IDB_TOOLBAR             BITMAP  DISCARDABLE     "Images\\Toolbar.bmp"
-IDB_DISABLE             BITMAP  DISCARDABLE     "Images\\ToolbarDisable.BMP"
-IDB_HOVER               BITMAP  DISCARDABLE     "Images\\ToolbarHover.BMP"
-IDB_NORMAL              BITMAP  DISCARDABLE     "Images\\ToolbarNormal.BMP"
+IDB_DISABLE             BITMAP  DISCARDABLE     "Images\\ToolbarDisable.bmp"
+IDB_HOVER               BITMAP  DISCARDABLE     "Images\\ToolbarHover.bmp"
+IDB_NORMAL              BITMAP  DISCARDABLE     "Images\\ToolbarNormal.bmp"
 
 ///////////////////////////////////////////////////////////////////////////////
 //
