@@ -13,7 +13,7 @@
 #undef APSTUDIO_READONLY_SYMBOLS
 
 ///////////////////////////////////////////////////////////////////////////////
-// Chinese (‰∏≠ÂõΩ) resources.
+// Chinese (÷–π˙) resources.
 
 #if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
 #ifdef _WIN32
@@ -46,7 +46,7 @@ BEGIN
         BEGIN
             VALUE "Comments", "Turing Labs"
             VALUE "CompanyName", "Asytumn Technology Co., Ltd."
-            VALUE "FileDescription", "‰∫§‰∫íËµÑÊ∫êÂ∫ì"
+            VALUE "FileDescription", "Ωªª•◊ ‘¥ø‚"
             VALUE "FileVersion", "1, 1, 0, 1"
             VALUE "InternalName", "Iris"
             VALUE "LegalCopyright", "Copyright (C) 2015 - 2019."
@@ -110,7 +110,7 @@ IDB_NORMAL              BITMAP  DISCARDABLE     "Images\\ToolbarNormal.bmp"
 IDR_WAVE_INVALID        WAVE    DISCARDABLE     "Sounds\\Invalid.wav"
 IDR_WAVE_LOSE           WAVE    DISCARDABLE     "Sounds\\Lose.wav"
 IDR_WAVE_MOVE           WAVE    DISCARDABLE     "Sounds\\Move.wav"
-#endif    // Chinese (‰∏≠ÂõΩ) resources
+#endif    // Chinese (÷–π˙) resources
 
 ///////////////////////////////////////////////////////////////////////////////
 
