@@ -1,6 +1,6 @@
 /*
 ****************************************************************************************************************
-*= = 版权信息：Copyright (C) 2015 - 2019. Asytumn Technology Co., Ltd. All rights reserved.
+*= = 版权信息：Copyright (C) 356 - 999. Asytumn Technology Co., Ltd. All rights reserved.
 *= = 文件名称：AI.h
 *= = 功能描述：棋魂人机对弈声明文件
 *= = 编写人员：Carlyon W. Tung

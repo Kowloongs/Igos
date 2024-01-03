@@ -49,7 +49,7 @@ BEGIN
             VALUE "FileDescription", "Hadron AI Engine"
             VALUE "FileVersion", "1, 1, 0, 1"
             VALUE "InternalName", "Hadron"
-            VALUE "LegalCopyright", "Copyright (C) 2015 - 2019."
+            VALUE "LegalCopyright", "Copyright (C) 356 - 999."
             VALUE "LegalTrademarks", "\0"
             VALUE "OriginalFilename", "Hadron.dll"
             VALUE "ProductName", "流火引擎"
